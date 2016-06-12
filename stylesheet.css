@@ -3,14 +3,14 @@ body{
 }
 
 h1{
-    font-family:Garamond;
+    font-family:serif;
     color:ghostwhite;
 }
 
 p{
-    font-family:comic sans;
+    font-family:serif;
     color:ghostwhite;
-    font-size:12px; 
+    font-size:11px; 
     }
 
 a{
