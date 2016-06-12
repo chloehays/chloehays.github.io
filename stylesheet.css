@@ -1,10 +1,11 @@
 body{
-    background-color: darkslategrey;
+    background-color: #565454;
 }
 background-color:#565454;
 
 h1{
-    font-family:serif;
+    font-family:Garamond;
+    color:antiquewhite
 }
 
 p{
@@ -12,3 +13,7 @@ p{
     color:floralwhite;
     }
 
+span{
+    color:#aefcff;
+    text-decoration: none;
+}
