@@ -1,19 +1,24 @@
 body{
-    background-color:darkslategrey;
+    background-color:dimgray;
 }
 
 h1{
-    font-family:serif;
+    font-family:Garamond, serif;
     color:ghostwhite;
+    text-align: center;
 }
 
 p{
     font-family:serif;
     color:ghostwhite;
-    font-size:11px; 
+    font-size:14px; 
     }
 
 a{
     color:skyblue;
     text-decoration: none;
+}
+
+div{
+    align-content: center;
 }
