@@ -6,12 +6,13 @@ h1{
     font-family:Garamond, serif;
     color:ghostwhite;
     text-align: center;
+    font-size:24px;
 }
 
 p{
     font-family:serif;
     color:ghostwhite;
-    font-size:14px; 
+    font-size:16px; 
     }
 
 a{
@@ -21,4 +22,8 @@ a{
 
 div{
     align-content: center;
+}
+
+span{
+    text-align: center;
 }
